@@ -1,1 +1,6 @@
-
+Required Python Modules:
+- math: https://docs.python.org/3/library/math.html
+- NumPy: https://numpy.org/doc/stable/user/index.html#user
+- itertools: https://docs.python.org/3/library/itertools.html
+- random: https://docs.python.org/3/library/random.html
+- Matplotlib: https://matplotlib.org/stable/users/index.html
