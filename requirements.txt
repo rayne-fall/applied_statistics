@@ -4,3 +4,4 @@ Required Python Modules:
 - itertools: https://docs.python.org/3/library/itertools.html
 - random: https://docs.python.org/3/library/random.html
 - Matplotlib: https://matplotlib.org/stable/users/index.html
+- SciPy.stats: https://docs.scipy.org/doc/scipy/reference/stats.html
