@@ -3,11 +3,11 @@ This repository contains my project work for the Applied Statistics module in At
 
 ## Contents
 The repository contains two files:
-- [project.ipynb](project.ipynb): A Jupyter notebook containing solutions to four statistics problems.
-- [requirements.txt](requirements.txt): A .txt file listing the required Python modules to run [project.ipynb](project.ipynb).
+- [problems.ipynb](problems.ipynb): A Jupyter notebook containing solutions to four statistics problems.
+- [requirements.txt](requirements.txt): A .txt file listing the required Python modules to run [problems.ipynb](problems.ipynb).
 
 ## Running the notebook
-The [project.ipynb](project.ipynb) notebook can be run either locally using [Anaconda](https://www.anaconda.com/download) and [Visual Studio Code](https://code.visualstudio.com/) or online using [GitHub Codespaces](https://github.com/features/codespaces). 
+The [problems.ipynb](problems.ipynb) notebook can be run either locally using [Anaconda](https://www.anaconda.com/download) and [Visual Studio Code](https://code.visualstudio.com/) or online using [GitHub Codespaces](https://github.com/features/codespaces). 
 
 ### Running locally
 
