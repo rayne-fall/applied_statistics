@@ -22,3 +22,12 @@ The [problems.ipynb](problems.ipynb) notebook can be run either locally using [A
 1. Click the green "Code" button at the top of the repository page.
 1. Click "Open with Codespaces".
 1. Run the notebook in the browser.
+
+## Table of Contents
+- [Introduction](problems.ipynb/#intro)
+- [Imports](problems.ipynb/#imports)
+- [Problem 1: Extending the Lady Tasting Tea](problems.ipynb/#prob_1)
+- [Problem 2: Normal Distribution](problems.ipynb/#prob_2)
+- [Problem 3: t-Tests](problems.ipynb/#prob_3)
+- [Problem 4: ANOVA](problems.ipynb/#prob_4)
+- [References](problems.ipynb/#refs)
