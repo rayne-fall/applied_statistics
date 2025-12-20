@@ -5,3 +5,4 @@ Required Python Modules:
 - random: https://docs.python.org/3/library/random.html
 - Matplotlib: https://matplotlib.org/stable/users/index.html
 - SciPy.stats: https://docs.scipy.org/doc/scipy/reference/stats.html
+- pandas: https://pandas.pydata.org/docs/user_guide/index.html
